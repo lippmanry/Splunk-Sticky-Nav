@@ -1,6 +1,6 @@
 ## **Splunk-Sticky-Nav**
 
-For environments that either cannot or do not want to use JS - a pure CSS sticky nav bar. This nav bar is partiall transparent and will stay in the upper left corner, extending only when hovered over. Set the row IDs to align with the links.
+For environments that either cannot or do not want to use JS - a pure CSS sticky nav bar. This nav bar is partially transparent and will stay in the upper left corner, extending only when hovered over. Set the row IDs to align with the links.
 
 Example:
 ```
